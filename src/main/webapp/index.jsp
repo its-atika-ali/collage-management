@@ -75,7 +75,7 @@
 </head>
 <body>
     <div class="welcome-card">
-        <h1><i class="fas fa-graduation-cap me-2"></i>Welcome to Student Management</h1>
+        <h1><i class="fas fa-graduation-cap me-2"></i>Welcome to College Management</h1>
         <p>Manage your students and employees efficiently. Please login to continue.</p>
         <button class="btn-login" onclick="window.location='login.jsp'">
             <i class="fas fa-sign-in-alt me-1"></i> Login
